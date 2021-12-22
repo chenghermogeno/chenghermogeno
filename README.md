@@ -1,5 +1,5 @@
 <h1 class="text-capitalize">👋 Hi there, I’m Maniecely a.k.a. "Cheng"</h1>
-<img align="right" alt="my photo" height="200px" src="https://github.com/chenghermogeno/maniecely/blob/main/me.png">
+<img align="right" alt="my photo" height="200px" src="https://github.com/chenghermogeno/chenghermogeno/blob/main/me.png">
 
 - I'm a career shifter who's excited to share my skills and learn more!
 - 👀 I’m interested in arts and cats
