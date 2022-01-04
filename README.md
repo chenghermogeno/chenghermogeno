@@ -1,13 +1,16 @@
 <h1 class="text-capitalize">👋 Hi there, I’m Maniecely a.k.a. "Cheng"</h1>
 <img align="right" alt="my photo" height="200px" src="https://github.com/chenghermogeno/chenghermogeno/blob/main/me.png">
 
-- I'm a career shifter who's excited to share my skills and learn more!
+I am a career shifter who is currently seeking a position as an entry-level Web Designer where I can share, utilize, and develop my skills in the best possible way to achieve the company’s goals.
+
+I self-studied different programming languages with the help of w3schools, crash courses online, and with the guidance of my partner - a full-stack developer by profession.
+
+Yes, I have a lot to learn in this industry, so I plan to take a specialist course at the right school in my spare time while working a full-time job.
+<br>
+I learned w
 - 👀 I’m interested in arts and cats
-- 🌱 I’m currently learning JSON
+- 🌱 I’m currently learning more on ReactJS
 - 📫 Know me more: [Linkedin](www.linkedin.com/in/maniecely-hermogeno)
-
-
-
 <br>
 
 Languages and Tools:
