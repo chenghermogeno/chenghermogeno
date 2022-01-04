@@ -3,7 +3,7 @@
 
 I am a career shifter who is currently seeking a position as an entry-level Web Designer where I can share, utilize, and develop my skills in the best possible way to achieve the company’s goals.
 
-I self-studied different programming languages with the help of w3schools, crash courses online, and with the guidance of my partner - a full-stack developer by profession.
+I self-studied different programming languages with the help of crash courses online, w3schools.com, and with the guidance of my partner - a full-stack developer by profession.
 
 Yes, I have a lot to learn in this industry, so I plan to take a specialist course at the right school in my spare time while working a full-time job.
 <br>
