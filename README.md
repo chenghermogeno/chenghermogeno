@@ -7,7 +7,7 @@ I self-studied different programming languages with the help of w3schools, crash
 
 Yes, I have a lot to learn in this industry, so I plan to take a specialist course at the right school in my spare time while working a full-time job.
 <br>
-I learned w
+
 - 👀 I’m interested in arts and cats
 - 🌱 I’m currently learning more on ReactJS
 - 📫 Know me more: [Linkedin](www.linkedin.com/in/maniecely-hermogeno)
