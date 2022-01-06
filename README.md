@@ -9,7 +9,7 @@ Yes, I have a lot to learn in this industry, so I plan to take a specialist cour
 <br>
 
 - 👀 I’m interested in arts and cats
-- 🌱 I’m currently learning more on ReactJS
+- 🌱 I’m currently learning more on ReactJS and PHP
 - 📫 Know me more: [Linkedin](www.linkedin.com/in/maniecely-hermogeno)
 <br>
 
