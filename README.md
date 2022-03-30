@@ -9,7 +9,7 @@ I self-studied different programming languages with the help of crash courses on
 Yes, I have a lot to learn in this industry, that's why I'm planning to take a specialist course in my spare time while working on a full-time job.
 </br></br>
 
-• <img src="https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Paint_roller-256.png" width="26px" /> Interested in arts and cats • 🌱 Currently learning more on ReactJS, PHP, and mySQL • 📫 Know me more: <a href="https://www.linkedin.com/in/maniecely-hermogeno/">
+• <img src="https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Paint_roller-256.png" width="26px" /> Interested in arts and cats • 🌱 Currently learning more on ReactJS, PHP, and mySQL </br>• 📫 Know me more: <a href="https://www.linkedin.com/in/maniecely-hermogeno/">
 <img border="0" alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26px">
 </a></br></br>
 
