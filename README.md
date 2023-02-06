@@ -2,7 +2,7 @@
 <h1 class="text-capitalize"> Hi there, I’m Macel 👋</h1>
 <img align="right" alt="typing-cat" height="250px" src="https://c.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" />
 
-I am a career shifter currently working as a Front-end Developer focusing on ReactJS, PHPmyAdmin, and mySQL.</br>
+I am a career shifter currently working as a Front-end Developer focusing on Bootstrap, ReactJS, PHP, and mySQL.</br>
 </br>
 I self-studied different programming languages with the help of crash courses online, w3schools.com, freecodecamp.org, and with the guidance of my partner - a full-stack developer by profession.
 
