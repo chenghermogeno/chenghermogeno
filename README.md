@@ -28,5 +28,6 @@ Languages and Tools:
 <img align="left" alt="Ubuntu" width="35px" src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/ubuntu/ubuntu-plain.svg" />
 <img align="left" alt="Github" width="35px" src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/github/github-original.svg" />
 <a href="https://cheng-react-task-tracker.herokuapp.com/"><img align="left" alt="Heroku" width="26px" src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/heroku/heroku-original.svg"  /></a>
+<img align="left" alt="Figma" width="35px" src="[https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/github/github-original.svg]https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 
 
