@@ -2,12 +2,16 @@
 <h1 class="text-capitalize"> Hi there, I’m Macel 👋</h1>
 <img align="right" alt="typing-cat" height="250px" src="https://c.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" />
 
-I am a career shifter currently working as a Front-end Developer focusing on Bootstrap, ReactJS, PHP, and mySQL.</br>
+I am currently working as a Web Developer focusing on Bootstrap, ReactJS, PHP, and mySQL.</br>
 </br>
-I self-studied different programming languages with the help of crash courses online, w3schools.com, freecodecamp.org, and with the guidance of my partner - a full-stack developer by profession.
 
-Yes, I have a lot to learn in this industry, that's why I'm planning to take a specialist course in my spare time while working on a full-time job.
-</br></br>
+You can also view my portfolio in these links: <br>
+• https://macel-one-page-website.netlify.app/ <br>
+• https://macel-dentalwebsite.netlify.app/ <br>
+• https://macel-checkout-js.netlify.app/index.html <br>
+• https://macel-login-signup-form.netlify.app/ <br>
+• shorturl.at/abeGI <br>
+
 
 • <img src="https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Paint_roller-256.png" width="26px" /> Interested in arts and cats • 🌱 Currently learning more on ReactJS, PHP, and mySQL </br>• 📫 Know me more: <a href="https://www.linkedin.com/in/maniecely-hermogeno/">
 <img border="0" alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26px">
