@@ -14,7 +14,7 @@ You can also view my portfolio in these links: <br>
 
 
 • <img src="https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Paint_roller-256.png" width="26px" />Interested in arts and cats</br>
-• 🌱 Currently learning more on ReactJS, Vue.js, and Material UI </br>
+• 🌱 Currently learning more on Vue.js and Material UI </br>
 • 📫 Know me more: <a href="https://www.linkedin.com/in/maniecely-hermogeno/">
 <img border="0" alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26px">
 </a></br></br>
