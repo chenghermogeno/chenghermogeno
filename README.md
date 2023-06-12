@@ -10,7 +10,7 @@ You can also view my portfolio in these links: <br>
 • https://macel-dentalwebsite.netlify.app/ <br>
 • https://macel-checkout-js.netlify.app/index.html <br>
 • https://macel-login-signup-form.netlify.app/ <br>
-• shorturl.at/abeGI <br>
+• https://www.behance.net/maniecely <br>
 
 
 • <img src="https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Paint_roller-256.png" width="26px" />Interested in arts and cats</br>
