@@ -2,15 +2,15 @@
 <h1 class="text-capitalize"> Hi there, I’m Macel 👋</h1>
 <img align="right" alt="typing-cat" height="250px" src="https://c.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" />
 
-I am currently working as a Web Developer focusing on Bootstrap, ReactJS, PHP, and mySQL.</br>
+I am currently working as a Full Stack Developer focusing on Reactjs, Nextjs, Nodejs and Tailwind CSS</br>
 </br>
 
 You can also view my portfolio in these links: <br>
+• https://www.behance.net/maniecely <br>
 • https://macel-one-page-website.netlify.app/ <br>
 • https://macel-dentalwebsite.netlify.app/ <br>
 • https://macel-checkout-js.netlify.app/index.html <br>
 • https://macel-login-signup-form.netlify.app/ <br>
-• https://www.behance.net/maniecely <br>
 
 
 • <img src="https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Paint_roller-256.png" width="26px" />Interested in arts and cats</br>
