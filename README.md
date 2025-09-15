@@ -12,9 +12,6 @@ You can also view my portfolio in these links: <br>
 • https://digital-stamp-card.vercel.app/<br>
 • https://www.behance.net/maniecely <br>
 • https://macel-one-page-website.netlify.app/ <br>
-• https://macel-dentalwebsite.netlify.app/ <br>
-• https://macel-checkout-js.netlify.app/index.html <br>
-• https://macel-login-signup-form.netlify.app/ <br>
 
 
 • <img src="https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Paint_roller-256.png" width="26px" />Interested in arts and cats</br>
