@@ -1,12 +1,18 @@
 <img align="left" alt="my photo" height="300px" src="https://github.com/chenghermogeno/chenghermogeno/blob/main/me.png">
 <h1 class="text-capitalize"> Hi there, I’m Macel 👋</h1>
-<img align="right" alt="typing-cat" height="250px" src="https://c.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" />
+<img align="right" alt="typing-cat" height="250px" src="https://c.tenor.com/0ygiqFaX-ssAAAAC/bongo-cat-typing.gif" /></br></br>
 
-I am currently working as a Full Stack Developer focusing on Reactjs, Nextjs, Nodejs and Tailwind CSS</br>
+Full-Stack Developer with experience building and maintaining institutional websites, campaign microsites, internal 
+systems, e-commerce platforms, and web applications. Experienced in React.js, Next.js, Vue.js, PHP, JavaScript, 
+TypeScript, CMS platforms, and UI/UX design. Strong background in translating designs into responsive interfaces, 
+developing reusable components, maintaining CMS-driven websites, and supporting web projects from design through 
+implementation and testing. </br>
 </br>
 
 You can also view my portfolio in these links: <br>
-• https://marde-auto-shop.vercel.app/ <br>
+• https://dev-ssap.vercel.app/ <br>
+• https://www.wearereaiv.com/ <br>
+• https://www.reimaginecollective.com.ph/ <br>
 • https://company-psychological-services.vercel.app/ <br>
 • https://megaworld-lifestylemalls.com/zodiac-portal <br>
 • https://digital-stamp-card.vercel.app/<br>
@@ -15,7 +21,7 @@ You can also view my portfolio in these links: <br>
 
 • <img src="https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Paint_roller-256.png" width="26px" />Interested in arts and cats</br>
 • 🌱 Currently learning more on Nextjs and Shadcn UI </br>
-• 📫 Know me more: <a href="https://www.linkedin.com/in/maniecely-hermogeno/">
+• 📫 Know me more: <a href="https://www.linkedin.com/in/maniecely/">
 <img border="0" alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26px">
 </a></br></br>
 
