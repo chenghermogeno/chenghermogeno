@@ -1,4 +1,4 @@
-# Hi there, I'm Macel Hermogeno! 👋
+# Hi there, I'm Maniecely Hermogeno! 👋
 
 ### Full-Stack Developer | Frontend Developer | UI/UX Designer
 
