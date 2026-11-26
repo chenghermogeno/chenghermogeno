@@ -1,4 +1,4 @@
-# Hi there, I'm Maniecely Hermogeno! 👋
+# Hi there, I'm Cheng! 👋
 
 ### Full-Stack Developer | Frontend Developer | UI/UX Designer
 
